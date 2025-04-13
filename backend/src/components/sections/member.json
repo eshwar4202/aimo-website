@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_members",
+  "info": {
+    "displayName": "Member Rich",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

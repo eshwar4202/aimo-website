@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_sections_member_lists",
+  "info": {
+    "displayName": "Member list"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "testimonials": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.testimonial"
+    }
+  }
+}

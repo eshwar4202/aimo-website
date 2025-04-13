@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_sections_about_abouts",
+  "info": {
+    "displayName": "About About"
+  },
+  "options": {},
+  "attributes": {
+    "location": {
+      "type": "text"
+    },
+    "structure": {
+      "type": "text"
+    },
+    "operation": {
+      "type": "text"
+    },
+    "tnsb": {
+      "type": "text"
+    }
+  }
+}

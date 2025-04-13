@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_shared_rich_abouts",
+  "info": {
+    "displayName": "Rich about",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "body": {
+      "type": "richtext"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_flipbooks",
+  "info": {
+    "displayName": "Flipbook"
+  },
+  "options": {},
+  "attributes": {
+    "url": {
+      "type": "string"
+    }
+  }
+}

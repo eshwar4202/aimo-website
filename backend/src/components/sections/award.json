@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_awards",
+  "info": {
+    "displayName": "Award"
+  },
+  "options": {},
+  "attributes": {
+    "page": {
+      "type": "string"
+    }
+  }
+}

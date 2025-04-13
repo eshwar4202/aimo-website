@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_fee_tables",
+  "info": {
+    "displayName": "Fee table"
+  },
+  "options": {},
+  "attributes": {
+    "fee": {
+      "type": "string"
+    }
+  }
+}

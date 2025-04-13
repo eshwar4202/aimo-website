@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_sections_contact_pages",
+  "info": {
+    "displayName": "Contact page",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "address": {
+      "type": "text"
+    },
+    "tel": {
+      "type": "string"
+    },
+    "telfax": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    }
+  }
+}
